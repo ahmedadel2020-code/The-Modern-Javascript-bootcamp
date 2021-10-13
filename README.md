@@ -7,6 +7,6 @@
 In this course I learned a lot of things about javascript from complete beginner to advanced and I built 3 projects.
 
 # Projects:
-[notes-app](https://github.com/ahmedadel2020-code/notes-app)
-[todo-app](https://github.com/ahmedadel2020-code/todo-app)
-[hangman-game](https://github.com/ahmedadel2020-code/Hangman)
+- [notes-app](https://github.com/ahmedadel2020-code/notes-app)
+- [todo-app](https://github.com/ahmedadel2020-code/todo-app)
+- [hangman-game](https://github.com/ahmedadel2020-code/Hangman)
