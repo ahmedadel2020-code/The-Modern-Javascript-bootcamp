@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input.js",
+  "source": "./src/index.html",
+  "scripts": {
+    "start": "rm -rf dist/* && parcel",
+    "build": "rm -rf dist/* && parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
